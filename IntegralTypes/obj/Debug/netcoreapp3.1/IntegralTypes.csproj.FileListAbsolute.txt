@@ -1,0 +1,13 @@
+C:\Formazione\C#\Corsi on Line\C# 8 Programming da Principiante a Esperto\IntegralTypes\bin\Debug\netcoreapp3.1\IntegralTypes.exe
+C:\Formazione\C#\Corsi on Line\C# 8 Programming da Principiante a Esperto\IntegralTypes\bin\Debug\netcoreapp3.1\IntegralTypes.deps.json
+C:\Formazione\C#\Corsi on Line\C# 8 Programming da Principiante a Esperto\IntegralTypes\bin\Debug\netcoreapp3.1\IntegralTypes.runtimeconfig.json
+C:\Formazione\C#\Corsi on Line\C# 8 Programming da Principiante a Esperto\IntegralTypes\bin\Debug\netcoreapp3.1\IntegralTypes.runtimeconfig.dev.json
+C:\Formazione\C#\Corsi on Line\C# 8 Programming da Principiante a Esperto\IntegralTypes\bin\Debug\netcoreapp3.1\IntegralTypes.dll
+C:\Formazione\C#\Corsi on Line\C# 8 Programming da Principiante a Esperto\IntegralTypes\bin\Debug\netcoreapp3.1\IntegralTypes.pdb
+C:\Formazione\C#\Corsi on Line\C# 8 Programming da Principiante a Esperto\IntegralTypes\obj\Debug\netcoreapp3.1\IntegralTypes.csprojAssemblyReference.cache
+C:\Formazione\C#\Corsi on Line\C# 8 Programming da Principiante a Esperto\IntegralTypes\obj\Debug\netcoreapp3.1\IntegralTypes.AssemblyInfoInputs.cache
+C:\Formazione\C#\Corsi on Line\C# 8 Programming da Principiante a Esperto\IntegralTypes\obj\Debug\netcoreapp3.1\IntegralTypes.AssemblyInfo.cs
+C:\Formazione\C#\Corsi on Line\C# 8 Programming da Principiante a Esperto\IntegralTypes\obj\Debug\netcoreapp3.1\IntegralTypes.csproj.CoreCompileInputs.cache
+C:\Formazione\C#\Corsi on Line\C# 8 Programming da Principiante a Esperto\IntegralTypes\obj\Debug\netcoreapp3.1\IntegralTypes.dll
+C:\Formazione\C#\Corsi on Line\C# 8 Programming da Principiante a Esperto\IntegralTypes\obj\Debug\netcoreapp3.1\IntegralTypes.pdb
+C:\Formazione\C#\Corsi on Line\C# 8 Programming da Principiante a Esperto\IntegralTypes\obj\Debug\netcoreapp3.1\IntegralTypes.genruntimeconfig.cache
