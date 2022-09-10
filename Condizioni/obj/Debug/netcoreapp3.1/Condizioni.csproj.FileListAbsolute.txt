@@ -1,0 +1,13 @@
+C:\Formazione\C#\Corsi on Line\C# 8 Programming da Principiante a Esperto\Condizioni\bin\Debug\netcoreapp3.1\Condizioni.exe
+C:\Formazione\C#\Corsi on Line\C# 8 Programming da Principiante a Esperto\Condizioni\bin\Debug\netcoreapp3.1\Condizioni.deps.json
+C:\Formazione\C#\Corsi on Line\C# 8 Programming da Principiante a Esperto\Condizioni\bin\Debug\netcoreapp3.1\Condizioni.runtimeconfig.json
+C:\Formazione\C#\Corsi on Line\C# 8 Programming da Principiante a Esperto\Condizioni\bin\Debug\netcoreapp3.1\Condizioni.runtimeconfig.dev.json
+C:\Formazione\C#\Corsi on Line\C# 8 Programming da Principiante a Esperto\Condizioni\bin\Debug\netcoreapp3.1\Condizioni.dll
+C:\Formazione\C#\Corsi on Line\C# 8 Programming da Principiante a Esperto\Condizioni\bin\Debug\netcoreapp3.1\Condizioni.pdb
+C:\Formazione\C#\Corsi on Line\C# 8 Programming da Principiante a Esperto\Condizioni\obj\Debug\netcoreapp3.1\Condizioni.csprojAssemblyReference.cache
+C:\Formazione\C#\Corsi on Line\C# 8 Programming da Principiante a Esperto\Condizioni\obj\Debug\netcoreapp3.1\Condizioni.AssemblyInfoInputs.cache
+C:\Formazione\C#\Corsi on Line\C# 8 Programming da Principiante a Esperto\Condizioni\obj\Debug\netcoreapp3.1\Condizioni.AssemblyInfo.cs
+C:\Formazione\C#\Corsi on Line\C# 8 Programming da Principiante a Esperto\Condizioni\obj\Debug\netcoreapp3.1\Condizioni.csproj.CoreCompileInputs.cache
+C:\Formazione\C#\Corsi on Line\C# 8 Programming da Principiante a Esperto\Condizioni\obj\Debug\netcoreapp3.1\Condizioni.dll
+C:\Formazione\C#\Corsi on Line\C# 8 Programming da Principiante a Esperto\Condizioni\obj\Debug\netcoreapp3.1\Condizioni.pdb
+C:\Formazione\C#\Corsi on Line\C# 8 Programming da Principiante a Esperto\Condizioni\obj\Debug\netcoreapp3.1\Condizioni.genruntimeconfig.cache

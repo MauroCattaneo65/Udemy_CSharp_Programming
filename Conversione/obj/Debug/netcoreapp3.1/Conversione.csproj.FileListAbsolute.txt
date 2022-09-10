@@ -1,0 +1,13 @@
+C:\Formazione\C#\Corsi on Line\C# 8 Programming da Principiante a Esperto\Conversione\bin\Debug\netcoreapp3.1\Conversione.exe
+C:\Formazione\C#\Corsi on Line\C# 8 Programming da Principiante a Esperto\Conversione\bin\Debug\netcoreapp3.1\Conversione.deps.json
+C:\Formazione\C#\Corsi on Line\C# 8 Programming da Principiante a Esperto\Conversione\bin\Debug\netcoreapp3.1\Conversione.runtimeconfig.json
+C:\Formazione\C#\Corsi on Line\C# 8 Programming da Principiante a Esperto\Conversione\bin\Debug\netcoreapp3.1\Conversione.runtimeconfig.dev.json
+C:\Formazione\C#\Corsi on Line\C# 8 Programming da Principiante a Esperto\Conversione\bin\Debug\netcoreapp3.1\Conversione.dll
+C:\Formazione\C#\Corsi on Line\C# 8 Programming da Principiante a Esperto\Conversione\bin\Debug\netcoreapp3.1\Conversione.pdb
+C:\Formazione\C#\Corsi on Line\C# 8 Programming da Principiante a Esperto\Conversione\obj\Debug\netcoreapp3.1\Conversione.csprojAssemblyReference.cache
+C:\Formazione\C#\Corsi on Line\C# 8 Programming da Principiante a Esperto\Conversione\obj\Debug\netcoreapp3.1\Conversione.AssemblyInfoInputs.cache
+C:\Formazione\C#\Corsi on Line\C# 8 Programming da Principiante a Esperto\Conversione\obj\Debug\netcoreapp3.1\Conversione.AssemblyInfo.cs
+C:\Formazione\C#\Corsi on Line\C# 8 Programming da Principiante a Esperto\Conversione\obj\Debug\netcoreapp3.1\Conversione.csproj.CoreCompileInputs.cache
+C:\Formazione\C#\Corsi on Line\C# 8 Programming da Principiante a Esperto\Conversione\obj\Debug\netcoreapp3.1\Conversione.dll
+C:\Formazione\C#\Corsi on Line\C# 8 Programming da Principiante a Esperto\Conversione\obj\Debug\netcoreapp3.1\Conversione.pdb
+C:\Formazione\C#\Corsi on Line\C# 8 Programming da Principiante a Esperto\Conversione\obj\Debug\netcoreapp3.1\Conversione.genruntimeconfig.cache
