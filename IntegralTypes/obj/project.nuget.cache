@@ -1,8 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "2N/SxTPByv/ymNvuVh+xHiIeiLUlaiUMK8MQNIsmJRjRD5its7zue7J5nRblvCcPcXDCJCHG2no9a02E0wP0Sw==",
+  "dgSpecHash": "UXPeHteCkz4Uim7s8WF0pTwVpCnlQkJUs4QQO9BO4ZT4DC3Pcq9FBjp2vI749EdPT0LbHaPmJN5XdNc+KucIlQ==",
   "success": true,
   "projectFilePath": "C:\\Formazione\\C#\\Corsi on Line\\C# 8 Programming da Principiante a Esperto\\IntegralTypes\\IntegralTypes.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\utente\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\utente\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.17\\microsoft.netcore.app.host.win-x64.3.1.17.nupkg.sha512"
+  ],
   "logs": []
 }

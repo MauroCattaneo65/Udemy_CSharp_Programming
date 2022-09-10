@@ -1,0 +1,13 @@
+C:\Formazione\C#\Corsi on Line\C# 8 Programming da Principiante a Esperto\EsempioFattoriale\bin\Debug\netcoreapp3.1\EsempioFattoriale.exe
+C:\Formazione\C#\Corsi on Line\C# 8 Programming da Principiante a Esperto\EsempioFattoriale\bin\Debug\netcoreapp3.1\EsempioFattoriale.deps.json
+C:\Formazione\C#\Corsi on Line\C# 8 Programming da Principiante a Esperto\EsempioFattoriale\bin\Debug\netcoreapp3.1\EsempioFattoriale.runtimeconfig.json
+C:\Formazione\C#\Corsi on Line\C# 8 Programming da Principiante a Esperto\EsempioFattoriale\bin\Debug\netcoreapp3.1\EsempioFattoriale.runtimeconfig.dev.json
+C:\Formazione\C#\Corsi on Line\C# 8 Programming da Principiante a Esperto\EsempioFattoriale\bin\Debug\netcoreapp3.1\EsempioFattoriale.dll
+C:\Formazione\C#\Corsi on Line\C# 8 Programming da Principiante a Esperto\EsempioFattoriale\bin\Debug\netcoreapp3.1\EsempioFattoriale.pdb
+C:\Formazione\C#\Corsi on Line\C# 8 Programming da Principiante a Esperto\EsempioFattoriale\obj\Debug\netcoreapp3.1\EsempioFattoriale.AssemblyInfoInputs.cache
+C:\Formazione\C#\Corsi on Line\C# 8 Programming da Principiante a Esperto\EsempioFattoriale\obj\Debug\netcoreapp3.1\EsempioFattoriale.AssemblyInfo.cs
+C:\Formazione\C#\Corsi on Line\C# 8 Programming da Principiante a Esperto\EsempioFattoriale\obj\Debug\netcoreapp3.1\EsempioFattoriale.csproj.CoreCompileInputs.cache
+C:\Formazione\C#\Corsi on Line\C# 8 Programming da Principiante a Esperto\EsempioFattoriale\obj\Debug\netcoreapp3.1\EsempioFattoriale.dll
+C:\Formazione\C#\Corsi on Line\C# 8 Programming da Principiante a Esperto\EsempioFattoriale\obj\Debug\netcoreapp3.1\EsempioFattoriale.pdb
+C:\Formazione\C#\Corsi on Line\C# 8 Programming da Principiante a Esperto\EsempioFattoriale\obj\Debug\netcoreapp3.1\EsempioFattoriale.genruntimeconfig.cache
+C:\Formazione\C#\Corsi on Line\C# 8 Programming da Principiante a Esperto\EsempioFattoriale\obj\Debug\netcoreapp3.1\EsempioFattoriale.csproj.AssemblyReference.cache

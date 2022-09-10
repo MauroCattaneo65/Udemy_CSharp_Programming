@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "pLXR3d/uBWjlq/Nen7XDVskPo8BNvqD7vcxckjRzwSSDF2nOctSTrAmlO9WemWtWpgO7rkESu8UfiYo0qdLJ1g==",
+  "success": true,
+  "projectFilePath": "C:\\Formazione\\C#\\Corsi on Line\\C# 8 Programming da Principiante a Esperto\\EsempioFattoriale\\EsempioFattoriale.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\utente\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\utente\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.17\\microsoft.netcore.app.host.win-x64.3.1.17.nupkg.sha512"
+  ],
+  "logs": []
+}
