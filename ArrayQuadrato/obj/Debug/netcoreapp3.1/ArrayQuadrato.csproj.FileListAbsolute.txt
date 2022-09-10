@@ -1,0 +1,13 @@
+C:\Formazione\C#\Corsi on Line\C# 8 Programming da Principiante a Esperto\ArrayQuadrato\bin\Debug\netcoreapp3.1\ArrayQuadrato.exe
+C:\Formazione\C#\Corsi on Line\C# 8 Programming da Principiante a Esperto\ArrayQuadrato\bin\Debug\netcoreapp3.1\ArrayQuadrato.deps.json
+C:\Formazione\C#\Corsi on Line\C# 8 Programming da Principiante a Esperto\ArrayQuadrato\bin\Debug\netcoreapp3.1\ArrayQuadrato.runtimeconfig.json
+C:\Formazione\C#\Corsi on Line\C# 8 Programming da Principiante a Esperto\ArrayQuadrato\bin\Debug\netcoreapp3.1\ArrayQuadrato.runtimeconfig.dev.json
+C:\Formazione\C#\Corsi on Line\C# 8 Programming da Principiante a Esperto\ArrayQuadrato\bin\Debug\netcoreapp3.1\ArrayQuadrato.dll
+C:\Formazione\C#\Corsi on Line\C# 8 Programming da Principiante a Esperto\ArrayQuadrato\bin\Debug\netcoreapp3.1\ArrayQuadrato.pdb
+C:\Formazione\C#\Corsi on Line\C# 8 Programming da Principiante a Esperto\ArrayQuadrato\obj\Debug\netcoreapp3.1\ArrayQuadrato.csprojAssemblyReference.cache
+C:\Formazione\C#\Corsi on Line\C# 8 Programming da Principiante a Esperto\ArrayQuadrato\obj\Debug\netcoreapp3.1\ArrayQuadrato.AssemblyInfoInputs.cache
+C:\Formazione\C#\Corsi on Line\C# 8 Programming da Principiante a Esperto\ArrayQuadrato\obj\Debug\netcoreapp3.1\ArrayQuadrato.AssemblyInfo.cs
+C:\Formazione\C#\Corsi on Line\C# 8 Programming da Principiante a Esperto\ArrayQuadrato\obj\Debug\netcoreapp3.1\ArrayQuadrato.csproj.CoreCompileInputs.cache
+C:\Formazione\C#\Corsi on Line\C# 8 Programming da Principiante a Esperto\ArrayQuadrato\obj\Debug\netcoreapp3.1\ArrayQuadrato.dll
+C:\Formazione\C#\Corsi on Line\C# 8 Programming da Principiante a Esperto\ArrayQuadrato\obj\Debug\netcoreapp3.1\ArrayQuadrato.pdb
+C:\Formazione\C#\Corsi on Line\C# 8 Programming da Principiante a Esperto\ArrayQuadrato\obj\Debug\netcoreapp3.1\ArrayQuadrato.genruntimeconfig.cache

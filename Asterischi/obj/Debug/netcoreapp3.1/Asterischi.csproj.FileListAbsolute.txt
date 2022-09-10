@@ -1,0 +1,13 @@
+C:\Formazione\C#\Corsi on Line\C# 8 Programming da Principiante a Esperto\Asterischi\bin\Debug\netcoreapp3.1\Asterischi.exe
+C:\Formazione\C#\Corsi on Line\C# 8 Programming da Principiante a Esperto\Asterischi\bin\Debug\netcoreapp3.1\Asterischi.deps.json
+C:\Formazione\C#\Corsi on Line\C# 8 Programming da Principiante a Esperto\Asterischi\bin\Debug\netcoreapp3.1\Asterischi.runtimeconfig.json
+C:\Formazione\C#\Corsi on Line\C# 8 Programming da Principiante a Esperto\Asterischi\bin\Debug\netcoreapp3.1\Asterischi.runtimeconfig.dev.json
+C:\Formazione\C#\Corsi on Line\C# 8 Programming da Principiante a Esperto\Asterischi\bin\Debug\netcoreapp3.1\Asterischi.dll
+C:\Formazione\C#\Corsi on Line\C# 8 Programming da Principiante a Esperto\Asterischi\bin\Debug\netcoreapp3.1\Asterischi.pdb
+C:\Formazione\C#\Corsi on Line\C# 8 Programming da Principiante a Esperto\Asterischi\obj\Debug\netcoreapp3.1\Asterischi.csprojAssemblyReference.cache
+C:\Formazione\C#\Corsi on Line\C# 8 Programming da Principiante a Esperto\Asterischi\obj\Debug\netcoreapp3.1\Asterischi.AssemblyInfoInputs.cache
+C:\Formazione\C#\Corsi on Line\C# 8 Programming da Principiante a Esperto\Asterischi\obj\Debug\netcoreapp3.1\Asterischi.AssemblyInfo.cs
+C:\Formazione\C#\Corsi on Line\C# 8 Programming da Principiante a Esperto\Asterischi\obj\Debug\netcoreapp3.1\Asterischi.csproj.CoreCompileInputs.cache
+C:\Formazione\C#\Corsi on Line\C# 8 Programming da Principiante a Esperto\Asterischi\obj\Debug\netcoreapp3.1\Asterischi.dll
+C:\Formazione\C#\Corsi on Line\C# 8 Programming da Principiante a Esperto\Asterischi\obj\Debug\netcoreapp3.1\Asterischi.pdb
+C:\Formazione\C#\Corsi on Line\C# 8 Programming da Principiante a Esperto\Asterischi\obj\Debug\netcoreapp3.1\Asterischi.genruntimeconfig.cache
