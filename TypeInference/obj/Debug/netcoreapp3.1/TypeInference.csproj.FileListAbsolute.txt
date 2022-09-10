@@ -1,0 +1,13 @@
+C:\Formazione\C#\Corsi on Line\C# 8 Programming da Principiante a Esperto\TypeInference\bin\Debug\netcoreapp3.1\TypeInference.exe
+C:\Formazione\C#\Corsi on Line\C# 8 Programming da Principiante a Esperto\TypeInference\bin\Debug\netcoreapp3.1\TypeInference.deps.json
+C:\Formazione\C#\Corsi on Line\C# 8 Programming da Principiante a Esperto\TypeInference\bin\Debug\netcoreapp3.1\TypeInference.runtimeconfig.json
+C:\Formazione\C#\Corsi on Line\C# 8 Programming da Principiante a Esperto\TypeInference\bin\Debug\netcoreapp3.1\TypeInference.runtimeconfig.dev.json
+C:\Formazione\C#\Corsi on Line\C# 8 Programming da Principiante a Esperto\TypeInference\bin\Debug\netcoreapp3.1\TypeInference.dll
+C:\Formazione\C#\Corsi on Line\C# 8 Programming da Principiante a Esperto\TypeInference\bin\Debug\netcoreapp3.1\TypeInference.pdb
+C:\Formazione\C#\Corsi on Line\C# 8 Programming da Principiante a Esperto\TypeInference\obj\Debug\netcoreapp3.1\TypeInference.csprojAssemblyReference.cache
+C:\Formazione\C#\Corsi on Line\C# 8 Programming da Principiante a Esperto\TypeInference\obj\Debug\netcoreapp3.1\TypeInference.AssemblyInfoInputs.cache
+C:\Formazione\C#\Corsi on Line\C# 8 Programming da Principiante a Esperto\TypeInference\obj\Debug\netcoreapp3.1\TypeInference.AssemblyInfo.cs
+C:\Formazione\C#\Corsi on Line\C# 8 Programming da Principiante a Esperto\TypeInference\obj\Debug\netcoreapp3.1\TypeInference.csproj.CoreCompileInputs.cache
+C:\Formazione\C#\Corsi on Line\C# 8 Programming da Principiante a Esperto\TypeInference\obj\Debug\netcoreapp3.1\TypeInference.dll
+C:\Formazione\C#\Corsi on Line\C# 8 Programming da Principiante a Esperto\TypeInference\obj\Debug\netcoreapp3.1\TypeInference.pdb
+C:\Formazione\C#\Corsi on Line\C# 8 Programming da Principiante a Esperto\TypeInference\obj\Debug\netcoreapp3.1\TypeInference.genruntimeconfig.cache
